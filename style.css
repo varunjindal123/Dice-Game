@@ -1,0 +1,39 @@
+.refresh{
+    text-align: center;
+}
+body{
+    text-align: center;
+    background-image: linear-gradient(rgb(206, 142, 58),rgb(186, 212, 67));
+    height: 500px;
+    weight:auto;
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+h1{
+  padding-top: 40px;
+    font-size: 4rem;
+    font-family: itim;
+    color: rgb(97, 4, 58);
+}
+.dice{
+   text-align: center;
+   display: inline-block;
+   margin-top:4%;
+}
+img{
+    width: 80%;
+}
+p{
+    font-family: lobster;
+    font-size: 2rem;
+    color:rgb(10, 9, 92);
+}
+footer{
+    margin-top: 5%;
+    color: cornsilk;
+}
